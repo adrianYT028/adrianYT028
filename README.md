@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and design
 - 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on fullstack projects
-- 📫 How to reach me contact me on kartikbhat@gmail.com
+- 📫 How to reach me contact me on kartikbhat028@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i love mma 
 
