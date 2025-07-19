@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adrianYT028
 - 👀 I’m interested in coding and design
-- 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on fullstack projects
+- 🌱 I’m currently learning icp , Dapps
+- 💞️ I’m looking to collaborate on web Dev and c++ projects
 - 📫 How to reach me contact me on kartikbhat028@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i love mma 
